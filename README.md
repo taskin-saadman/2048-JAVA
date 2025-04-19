@@ -15,7 +15,12 @@ A simple graphical version of the classic **2048 game** built in Java 8.0 using 
 ## 📁 Directory Structure
 ```
 2048-Game
-|--src/
+|--src
+|    |--main
+|          |--java
+|                 |TwentyFortyEight
+|                                 |--App.java
+|                                 |--Cell.java
 |--build.gradle
 ```
 
