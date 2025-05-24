@@ -8,11 +8,8 @@ Inspiration taken from _https://play2048.co/_
 - **Language:** Java
 - **Build Tool:** Gradle
 - **Dependencies:**
-  - `com.google.guava:guava:28.0-jre`
   - `org.processing:core:3.3.7`
-  - `org.junit.jupiter:junit-jupiter-api:5.6.2` (test)
-  - `org.junit.jupiter:junit-jupiter-engine:5.6.2` (test)
-
+  - 
 ## 📁 Directory Structure
 ```
 2048-Game
